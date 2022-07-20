@@ -1,5 +1,4 @@
 
-from msilib.schema import File
 from tkinter import *
 from tkinter import messagebox
 from PIL import ImageTk
